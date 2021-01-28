@@ -3,7 +3,7 @@ package com.api.marvel.feign.controller.response;
 import lombok.Getter;
 
 @Getter
-public class MarvelResponse {
+public class ComicsResponse {
 	private String copyright;
 	private String attributionHTML;
 	
